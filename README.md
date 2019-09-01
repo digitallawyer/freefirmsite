@@ -3,7 +3,7 @@
 
 ## Overview
 
-A free law firm website template built using [Github Pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/). 
+A free law firm website template built by [@digitallawyer](https://www.twitter.com/digitallawyer) using freely available software by Microsoft. 
 
 **[View the demo](https://www.freefirmsite.com)**
 
