@@ -27,9 +27,9 @@ Setting up and customizing this website is easy, and requires only a minimum lev
 
 * Create a Github account (if you do not already have one)
 * Make a copy of this website (also referred to as 'forking this repository')
-* Customize the variables, such as the name of your law firm.
-* Add information about the attorneys in your firm.
-* Add services your firm offers.
+* Customize the variables, such as the name of your law firm (by editing the `config.yml` file).
+* Add information about the attorneys in your firm (by editing the `attorneys.yml` file).
+* Add services your firm offers (by editing the `services.yml` file).
 * Connect the website to your domain name.
 
 The whole setup process can be performed in less than an hour. Because hosting on Github pages is free, the only cost involved is the annual renewal fee of the domain name you choose. The end-result is a professional law firm website that is blazing-fast, works on desktop and mobile, and is incredibly cost-effective.
