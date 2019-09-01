@@ -110,9 +110,9 @@ Once you save your custom domain name, Github will issue a security certificate.
 
 It typically takes a while for the https certificate to become valid. To speed up the process, delete your custom domain name after you have enabled https, and subsequently add it again.
 
-### 10. Celebate
+### 10. Setting up the contact form
 
-That's it! Your website should be up and running. 
+The contact form on your website uses Formspree, a free, easy to use solution for contact forms. Make sure you have correctly set the `email` value in `config.yml`. On your custom domain, click **Contact** and submit the form. You will see a warning page asking you to activate the form. Check the inbox of the email address you added in `config.yml` and verify. New form submissions will now arrive on the email address you provided.
 
 ## License
 
