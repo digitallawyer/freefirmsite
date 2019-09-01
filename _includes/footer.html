@@ -51,10 +51,7 @@
             <a href="/contact" class="text-info">Send us a message</a>
           </li>
           <li>
-            <a href="mailto:{{site.email}}" class="text-info">Email {{site.email}}</a>
-          </li>
-          <li>
-            <a href="tel:{{site.phone}}" class="text-info">Call {{site.phone}}</a>
+            <p class="">{{site.address_1}}<br>{{site.address_2}}</p>
           </li>
         </ul>
 
@@ -68,8 +65,9 @@
   <!-- Footer Links -->
 
   <!-- Copyright -->
-  <div class="footer-copyright text-center py-3">© {{ 'now' | date: "%Y" }}
- Copyright: {{site.title}}
+  <hr>
+  <div class="container footer-copyright text-secondary py-4">© {{ 'now' | date: "%Y" }}
+ Copyright: {{site.title}}. {{site.disclaimer}}
   </div>
   <!-- Copyright -->
 

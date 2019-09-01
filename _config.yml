@@ -16,6 +16,13 @@ description: >- # this means to ignore newlines until "baseurl:"
 # The tagline of your website. This will be displayed on the home page of your website
 tagline: Free, Flexible, Effective
 
+# The address of your firm. This will be displayed in the footer of your website
+address_1: "1535 Mission St."
+address_2: "San Francisco, CA, 94103"
+
+# It would not be a legal website without a disclaimer! This will be displayed in the footer of your website
+disclaimer: "Attorney advertisement. This information is not intended to create, and receipt of it does not constitute an attorney-client relationship. Internet subscribers and online readers should not act upon this information without seeking professional counsel. Do not send us information that is confidential until you speak with one of our attorneys and obtain authorization to send that information to us."
+
 # The secondary tagline of your website. This will be displayed on the home page of your website, under the primary tagline
 secondary_tagline: A free legal website template, yours to use and customize.
 
