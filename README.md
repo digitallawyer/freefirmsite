@@ -80,7 +80,7 @@ Each item in the `config.yml` comes with a little description. Change the values
 
 Once you have configured the basics of your website, you can modify the information about the attorneys in your firm. To do so, go to your repository and click on the `_data` folder. Then click `attorneys.yml` and edit the file by clicking the edit button (the pen icon).
 
-Update the `name`, `bio`, `email`, and `phone` fields with the correct info for each attorney in the firm. Save by pressing the commit button. Your website will rebuild, and be updated in a matter of minutes. 
+Update the `name`, `bio`, `email`, and `phone` fields with the correct info for each attorney in the firm. Save by pressing the commit button. Your website will rebuild, and be updated in a matter of minutes. Delete or add attorneys as necessary.
 
 In order to show pictures for the attorneys in your firm, set the `picture` value to the name of your picture, and upload the picture to the `assets/images/` folder. You can upload pictures by clicking the "Upload Files" button in the `assets/images` folder.
 
@@ -88,11 +88,11 @@ In order to show pictures for the attorneys in your firm, set the `picture` valu
 
 ### 6. Add services your firm offers
 
-And list out the services that you offer.
+Editing the services your website offers follows a similar process. Go to your repository and click on the `_data` folder. Then click `services.yml` and edit the file by clicking the edit button (the pen icon). You can add as many services as you like. 
 
 ### 7. Customize the about page
 
-And list out the services that you offer.
+Almost done! To edit the about page and tell potential clients about your firm, go to your repository and visit `about.md`. You might recognize the content of this file: it contains the instructions you are currently reading! Simply replace the text and hit commit. Your new about page will become available shortly thereafter.
 
 ### 8. Connect the website to your domain name
 
