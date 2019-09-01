@@ -8,6 +8,7 @@ A free law firm website template built by [@digitallawyer](https://www.twitter.c
 
 * A complete, customizable law firm website.
 * Mobile responsive and blazing fast.
+* Securely served over https.
 * Completely free to use.
 * Easy to customize.
 * Fast to deploy.
@@ -33,19 +34,19 @@ Setting up and customizing this website is easy, and requires only a minimum lev
 
 The whole setup process can be performed in less than an hour. Because hosting on Github pages is free, the only cost involved is the annual renewal fee of the domain name you choose. The end-result is a professional law firm website that is blazing-fast, works on desktop and mobile, and is incredibly cost-effective.
 
-### Create a github account
+### 1. Create a github account
 
 First, you will need to **create a Github account**. Github is owned by Microsoft and is used by developers to store and track changes to software code. Think about it as track changes but for software code. If you already have a Github account, you can skip this step. If you do not yet have a Github account, go to [github.com](https://www.github.com) to get started.
 
 ![Create a Github Account](/assets/images/_readme/rm1.png "Create a Github Account")
 
-### Make a copy of this website
+### 2. Make a copy of this website
 
 Once you have created and are logged in to your github account, you can make a copy of the demo website. To do so, go to [https://github.com/digitallawyer/freefirmsite](https://github.com/digitallawyer/freefirmsite) and click the "**Fork**" button located at the top right of the page. By "Forking" a repository, you are making a copy of the original website, in your Github account. 
 
 ![Fork the repository](/assets/images/_readme/rm2.png "Fork the repository")
 
-### See it in action
+### 3. See it in action
 
 Congrats! You now have your own, personal copy of the Free Firm Site repository. Github allows you to host your website, for free, on Github Pages. To do so, click the "**Settings**"" button on your repository page.
 
@@ -55,25 +56,49 @@ Scroll down until you see the **Github Pages** section. Click on the "Source" bu
 
 ![Enable Github Pages](/assets/images/_readme/rm4.png "Enable Github Pages")
 
-As soon as you enable Github pages, your website will start building, and Github will make it available online. The settings page will show the url at which the site is available, and you should be able to visit your website moments later. 
+As soon as you enable Github pages, your website will start building, and Github will make it available online. The settings page will show the url at which the site is available, and you should be able to visit your website moments later. You too are now a digital lawyer.
 
 ![Your Github Pages URL](/assets/images/_readme/rm5.png "Your Github Pages URL")
 
-### Customize the variables
+### 4. Customize the variables
 
-Congrats! You now have your own, personal copy of the Free Firm Site repository. 
+Time to start customizing your website! There are various ways to achieve this, but to keep things simple, we'll work from the Github interface. This allows you to complete the setup of your website without having to install any software.
 
-### Add information about the attorneys in your firm
+The key variables for your website are contained in a file called `config.yml`. To edit this file, go to your repository and click on `config.yml`.
+
+![Config.yml](/assets/images/_readme/rm6.png "Config.yml")
+
+Editing `config.yml` will change the variables of your website. To edit `config.yml`, click the edit button (the pen icon) on top of the page.
+
+![Edit](/assets/images/_readme/rm7.png "Edit")
+
+Each item in the `config.yml` comes with a little description. Change the values to your liking, scroll down, and click "Commit Changes". Your website will automatically update in a matter of minutes.
+
+![Commit](/assets/images/_readme/rm8.png "Commit")
+
+### 5. Add information about the attorneys in your firm
 
 Then, you will add info about the attorneys in the firm.
 
-### Add services your firm offers
+### 6. Add services your firm offers
 
 And list out the services that you offer.
 
-### Connect the website to your domain name
+### 7. Customize the about page
+
+And list out the services that you offer.
+
+### 8. Connect the website to your domain name
 
 Finally, you will connect the domain name.
+
+### 9. Enable https
+
+Finally, you will connect the domain name.
+
+### 10. Celebrate
+
+That's it!
 
 ## License
 
