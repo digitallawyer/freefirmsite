@@ -3,8 +3,8 @@
 # The name of your law firm
 title: Free Firm Site LLP
 
-# The email address of your law firm. This will be displayed on the website, and messages sent using the contact form will be sent to this address.
-email: "info@firm.com"
+# The email address of your law firm. Messages sent using the contact form will arrive at this address.
+email: "pieter@legal.io"
 
 # The phone number of your law firm. This will be displayed on the website.
 phone: "+1 650 391 0000"
