@@ -13,11 +13,6 @@ phone: "+1 650 391 0000"
 description: >- # this means to ignore newlines until "baseurl:"
   Law Firm is the leading full-service firm in the San Francisco Bay Area. No matter your issue, we have your covered.
 
-#baseurl: "" # the subpath of your site, e.g. /blog
-#url: "" # the base hostname & protocol for your site, e.g. http://example.com
-#twitter_username: jekyllrb
-#github_username:  jekyll
-
 # The tagline of your website. This will be displayed on the home page of your website
 tagline: Free, Flexible, Effective
 
@@ -36,6 +31,9 @@ plugins:
 
 collections:
   - posts
+
+#baseurl: "" # the subpath of your site, e.g. /blog
+#url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
