@@ -3,7 +3,9 @@
 
 ## Overview
 
-A free law firm website template built using [Github Pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/). <a href="https://www.freefirmsite.com" target="_blank">See it in action by clicking here.</a>
+A free law firm website template built using [Github Pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/). 
+
+**[View the demo](https://www.freefirmsite.com)**
 
 * A complete, customizable law firm website.
 * Mobile responsive and blazing fast.
