@@ -36,27 +36,27 @@ The whole setup process can be performed in less than an hour. Because hosting o
 
 First, you will need to **create a Github account**. Github is owned by Microsoft and is used by developers to store and track changes to software code. Think about it as track changes but for software code. If you already have a Github account, you can skip this step. If you do not yet have a Github account, go to [github.com](https://www.github.com) to get started.
 
-![Create a Github Account](assets/images/_readme/rm1.png "Create a Github Account")
+![Create a Github Account](assets/images/rm1.png "Create a Github Account")
 
 ### 2. Make a copy of this website
 
 Once you have created and are logged in to your github account, you can make a copy of the demo website. To do so, go to [https://github.com/digitallawyer/freefirmsite](https://github.com/digitallawyer/freefirmsite) and click the "**Fork**" button located at the top right of the page. By "Forking" a repository, you are making a copy of the original website, in your Github account. 
 
-![Fork the repository](assets/images/_readme/rm2.png "Fork the repository")
+![Fork the repository](assets/images/rm2.png "Fork the repository")
 
 ### 3. See it in action
 
 Congrats! You now have your own, personal copy of the Free Firm Site repository. Github allows you to host your website, for free, on Github Pages. To do so, click the "**Settings**"" button on your repository page.
 
-![Go to settings](assets/images/_readme/rm3.png "Go to settings")
+![Go to settings](assets/images/rm3.png "Go to settings")
 
 Scroll down until you see the **Github Pages** section. Click on the "Source" button and select "master branch". This tells Github that you would like to use Github Pages, and that Github Pages should show your visitors the code in the main branch of your repository.
 
-![Enable Github Pages](assets/images/_readme/rm4.png "Enable Github Pages")
+![Enable Github Pages](assets/images/rm4.png "Enable Github Pages")
 
 As soon as you enable Github pages, your website will start building, and Github will make it available online. The settings page will show the url at which the site is available, and you should be able to visit your website moments later. You too are now a digital lawyer.
 
-![Your Github Pages URL](assets/images/_readme/rm5.png "Your Github Pages URL")
+![Your Github Pages URL](assets/images/rm5.png "Your Github Pages URL")
 
 ### 4. Customize the variables
 
@@ -64,15 +64,15 @@ Time to start customizing your website! There are various ways to achieve this, 
 
 The key variables for your website are contained in a file called `config.yml`. To edit this file, go to your repository and click on `config.yml`.
 
-![Config.yml](assets/images/_readme/rm6.png "Config.yml")
+![Config.yml](assets/images/rm6.png "Config.yml")
 
 Editing `config.yml` will change the variables of your website. To edit `config.yml`, click the edit button (the pen icon) on top of the page.
 
-![Edit](assets/images/_readme/rm7.png "Edit")
+![Edit](assets/images/rm7.png "Edit")
 
 Each item in the `config.yml` comes with a little description. Change the values to your liking, scroll down, and click "Commit Changes". Your website will automatically update in a matter of minutes.
 
-![Commit](assets/images/_readme/rm8.png "Commit")
+![Commit](assets/images/rm8.png "Commit")
 
 ### 5. Add information about the attorneys in your firm
 
@@ -80,9 +80,9 @@ Once you have configured the basics of your website, you can modify the informat
 
 Update the `name`, `bio`, `email`, and `phone` fields with the correct info for each attorney in the firm. Save by pressing the commit button. Your website will rebuild, and be updated in a matter of minutes. Delete or add attorneys as necessary.
 
-In order to show pictures for the attorneys in your firm, set the `picture` value to the name of your picture, and upload the picture to the `assets/images/` folder. You can upload pictures by clicking the "Upload Files" button in the `assets/images` folder.
+In order to show pictures for the attorneys in your firm, set the `picture` value to the name of your picture, and upload the picture to the `assets/images folder. You can upload pictures by clicking the "Upload Files" button in the `assets/images folder.
 
-![Upload](assets/images/_readme/rm9.png "Upload")
+![Upload](assets/images/rm9.png "Upload")
 
 ### 6. Add services your firm offers
 
