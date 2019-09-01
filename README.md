@@ -35,7 +35,10 @@ The whole setup process can be performed in less than an hour. Because hosting o
 
 ### Create a github account
 
-First, you will need to create a Github account. Github is a company owned by Microsoft.
+First, you will need to create a Github account. Github is owned by Microsoft and is used by developers to store and track changes to software code. Think about it as redlining on steroids. If you already have a Github account, you can skip this step.
+
+![Create a Github Account](/assets/images/_readme/rm1,png "Logo Title Text 1")
+
 
 ### Make a copy of this website
 
