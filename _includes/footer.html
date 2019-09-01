@@ -1,40 +1,84 @@
+<!-- Footer -->
+<footer class="page-footer font-small blue pt-4 bg-light">
 
-<div class="py-5 border-top">
-  <div class="container">
+  <!-- Footer Links -->
+  <div class="container text-center text-md-left py-4">
 
-    <p class="h5 mb-3">{{ site.title | escape }}</p>
-
+    <!-- Grid row -->
     <div class="row">
 
-      <div class="col-sm">
+      <!-- Grid column -->
+      <div class="col-md-6 mt-md-0 mt-3">
+
+        <!-- Content -->
+        <h5 class="text-uppercase">{{ site.title | escape }}</h5>
+        <p class="">{{- site.description | escape -}}</p>
+        <a href="mailto:{{ site.email }}" class="text-info">{{ site.email }}</a>
+
+      </div>
+      <!-- Grid column -->
+
+      <hr class="clearfix w-100 d-md-none pb-3">
+
+      <!-- Grid column -->
+      <div class="col-md-3 mb-md-0 mb-3">
+
+        <!-- Links -->
+        <h5 class="text-uppercase">Explore</h5>
+
         <ul class="list-unstyled">
           <li>
-            {%- if site.author -%}
-              {{ site.author | escape }}
-            {%- else -%}
-              {{ site.title | escape }}
-            {%- endif -%}
+            <a href="/attorneys" class="text-info">Attorneys</a>
           </li>
-          {%- if site.email -%}
-            <li>
-              <a href="mailto:{{ site.email }}">
-                {{ site.email }}
-              </a>
-            </li>
-          {%- endif -%}
+          <li>
+            <a href="/services" class="text-info">Services</a>
+          </li>
+          <li>
+            <a href="/blog" class="text-info">Blog</a>
+          </li>
+          <li>
+            <a href="/about" class="text-info">About</a>
+          </li>
         </ul>
+
       </div>
+      <!-- Grid column -->
 
+      <!-- Grid column -->
+      <div class="col-md-3 mb-md-0 mb-3">
 
-      <div class="col-sm text-right">
-        <p>{{- site.description | escape -}}</p>
+        <!-- Links -->
+        <h5 class="text-uppercase">Get in touch</h5>
 
-        <p>
-          <a href="https://nicolas-van.github.io/bootstrap-4-github-pages/">Powered by Bootstrap 4 Github Pages</a>
-        </p>
+        <ul class="list-unstyled">
+          <li>
+            <a href="https://legaloperators.slack.com" class="text-info">Slack channel</a>
+          </li>
+          <li>
+            <a href="#!" class="text-info">Vendor directory</a>
+          </li>
+          <li>
+            <a href="#!" class="text-info">Community guidelines</a>
+          </li>
+          <li>
+            <a href="#!" class="text-info">A guide to using Slack</a>
+          </li>
+        </ul>
+
       </div>
+      <!-- Grid column -->
 
     </div>
+    <!-- Grid row -->
 
   </div>
-</div>
+  <!-- Footer Links -->
+
+  <!-- Copyright -->
+  <div class="footer-copyright text-center py-3 text-white">© {{ 'now' | date: "%Y" }}
+ Copyright: Legal Operators
+  </div>
+  <!-- Copyright -->
+
+</footer>
+<!-- Footer -->

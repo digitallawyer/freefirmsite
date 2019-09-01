@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {%- include head.html -%}
+  
+  <body>
+    
+    {%- include header.html -%}
+    <header class="masthead" style="background-image: url('https://images.unsplash.com/photo-1422226256160-9b266e308ea6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2853&q=80');background-size: cover; height: 95vh;">
+      <div class="container h-100">
+        <div class="row h-100 align-items-center">
+          <div class="col-12 text-center">
+            <h1 class="text-white">{{site.tagline}}</h1>
+            <p class="lead text-white">{{site.secondary_tagline}}</p>
+             <p class="lead py5">
+              <a class="btn btn-darker btn-lg" href="/join" role="button">Become a Member</a>
+            </p>
+          </div>
+        </div>
+      </div>
+    </header>
+
+    {%- include footer.html -%}
+
+  </body>
+
+</html>
