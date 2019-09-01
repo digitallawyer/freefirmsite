@@ -3,16 +3,65 @@ layout: default
 title: About
 ---
 
-# About 
+# About
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sollicitudin nibh sit amet commodo nulla facilisi nullam vehicula. Ac felis donec et odio pellentesque diam volutpat commodo sed. Nunc aliquet bibendum enim facilisis gravida neque convallis a. Mi quis hendrerit dolor magna. Risus ultricies tristique nulla aliquet enim tortor at auctor. A iaculis at erat pellentesque adipiscing commodo elit. Euismod elementum nisi quis eleifend quam. Mattis vulputate enim nulla aliquet porttitor. A erat nam at lectus urna duis convallis convallis. Amet est placerat in egestas erat imperdiet sed euismod nisi.
+**Demo: [freefirmsite.com](https://www.freefirmsite.com)**
 
-Tellus mauris a diam maecenas sed enim ut sem viverra. Commodo ullamcorper a lacus vestibulum sed arcu non odio. Viverra accumsan in nisl nisi scelerisque eu. Non diam phasellus vestibulum lorem sed risus ultricies. Aliquam faucibus purus in massa. In vitae turpis massa sed elementum tempus egestas. Nulla pharetra diam sit amet nisl suscipit adipiscing bibendum. Phasellus vestibulum lorem sed risus ultricies tristique. Mollis aliquam ut porttitor leo a diam. Nullam non nisi est sit amet facilisis magna etiam. Arcu cursus vitae congue mauris rhoncus aenean. Faucibus turpis in eu mi bibendum neque egestas congue. Ante in nibh mauris cursus mattis molestie a iaculis. Diam sit amet nisl suscipit adipiscing bibendum est ultricies. In tellus integer feugiat scelerisque. Gravida quis blandit turpis cursus in. Facilisis volutpat est velit egestas dui id ornare arcu odio.
+## Overview
 
-Orci porta non pulvinar neque laoreet suspendisse. Et molestie ac feugiat sed lectus vestibulum mattis. Ut sem nulla pharetra diam sit. Imperdiet sed euismod nisi porta lorem. Volutpat diam ut venenatis tellus in. Posuere morbi leo urna molestie at elementum eu. Lorem ipsum dolor sit amet consectetur adipiscing. Est pellentesque elit ullamcorper dignissim cras tincidunt lobortis feugiat vivamus. Elit sed vulputate mi sit. Ut pharetra sit amet aliquam id diam maecenas ultricies mi.
+A free law firm website template built by [@digitallawyer](https://www.twitter.com/digitallawyer) using freely available software by Microsoft. 
 
-Gravida in fermentum et sollicitudin ac. Pretium aenean pharetra magna ac placerat. Sed velit dignissim sodales ut. Eget nulla facilisi etiam dignissim diam quis. Hendrerit dolor magna eget est lorem ipsum. Nunc non blandit massa enim nec. Mattis pellentesque id nibh tortor. Velit aliquet sagittis id consectetur purus. Placerat vestibulum lectus mauris ultrices eros in cursus. Eget mauris pharetra et ultrices. Volutpat est velit egestas dui id. Lobortis elementum nibh tellus molestie nunc non blandit massa. Donec pretium vulputate sapien nec sagittis aliquam malesuada. Odio pellentesque diam volutpat commodo sed egestas egestas fringilla phasellus.
+* A complete, customizable law firm website.
+* Mobile responsive and blazing fast.
+* Completely free to use.
+* Easy to customize.
+* Fast to deploy.
 
-Blandit volutpat maecenas volutpat blandit aliquam etiam erat velit. Est placerat in egestas erat imperdiet sed. Commodo sed egestas egestas fringilla phasellus faucibus scelerisque. Tincidunt ornare massa eget egestas purus. Justo nec ultrices dui sapien. Sapien et ligula ullamcorper malesuada proin libero. Non odio euismod lacinia at quis risus. Dui accumsan sit amet nulla facilisi morbi. Id leo in vitae turpis massa sed. Sed blandit libero volutpat sed cras ornare arcu. Elementum tempus egestas sed sed risus pretium quam. Arcu cursus vitae congue mauris rhoncus aenean vel elit scelerisque. Fermentum dui faucibus in ornare quam viverra. Orci ac auctor augue mauris. Diam sit amet nisl suscipit adipiscing bibendum. Mattis molestie a iaculis at erat pellentesque adipiscing commodo elit. Diam volutpat commodo sed egestas egestas fringilla phasellus faucibus scelerisque.
+The Free Firm Site template comes with the following pages:
 
-Tellus mauris a diam maecenas sed enim ut sem viverra. Commodo ullamcorper a lacus vestibulum sed arcu non odio. Viverra accumsan in nisl nisi scelerisque eu. Non diam phasellus vestibulum lorem sed risus ultricies. Aliquam faucibus purus in massa. In vitae turpis massa sed elementum tempus egestas. Nulla pharetra diam sit amet nisl suscipit adipiscing bibendum. Phasellus vestibulum lorem sed risus ultricies tristique. Mollis aliquam ut porttitor leo a diam. Nullam non nisi est sit amet facilisis magna etiam. Arcu cursus vitae congue mauris rhoncus aenean. Faucibus turpis in eu mi bibendum neque egestas congue. Ante in nibh mauris cursus mattis molestie a iaculis. Diam sit amet nisl suscipit adipiscing bibendum est ultricies. In tellus integer feugiat scelerisque. Gravida quis blandit turpis cursus in. Facilisis volutpat est velit egestas dui id ornare arcu odio.
+* A clean home page.
+* A page listing the attorneys in your firm.
+* A page providing an overview of your firm's services.
+* An about page.
+* A contact page.
+
+## Setup
+
+Setting up and customizing this website is easy, and requires only a minimum level of technical expertise. To do so, you will need to:
+
+* Create a Github account (if you do not already have one)
+* Make a copy of this website (also referred to as 'forking this repository')
+* Customize the variables, such as the name of your law firm (by editing the `config.yml` file).
+* Add information about the attorneys in your firm (by editing the `attorneys.yml` file).
+* Add services your firm offers (by editing the `services.yml` file).
+* Connect the website to your domain name.
+
+The whole setup process can be performed in less than an hour. Because hosting on Github pages is free, the only cost involved is the annual renewal fee of the domain name you choose. The end-result is a professional law firm website that is blazing-fast, works on desktop and mobile, and is incredibly cost-effective.
+
+### Create a github account
+
+First, you will need to create a Github account. Github is a company owned by Microsoft.
+
+### Make a copy of this website
+
+Then, you will make a copy of the demo website.
+
+### Customize the variables
+
+Now, you will adapt the template to your needs.
+
+### Add information about the attorneys in your firm
+
+Then, you will add info about the attorneys in the firm.
+
+### Add services your firm offers
+
+And list out the services that you offer.
+
+### Connect the website to your domain name
+
+Finally, you will connect the domain name.
+
+## License
+
+This project is licensed under the MIT License.
