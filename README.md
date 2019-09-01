@@ -86,7 +86,9 @@ In order to show pictures for the attorneys in your firm, set the `picture` valu
 
 ### 6. Add services your firm offers
 
-Editing the services your website offers follows a similar process. Go to your repository and click on the `_data` folder. Then click `services.yml` and edit the file by clicking the edit button (the pen icon). You can add as many services as you like. 
+Editing the services your website offers follows a similar process. Go to your repository and click on the `_data` folder. Then click `services.yml` and edit the file by clicking the edit button (the pen icon). You can add as many services as you like. The end result should look like this:
+
+![Services](assets/images/rm10.png "Services")
 
 ### 7. Customize the about page
 
@@ -94,15 +96,23 @@ Almost done! To edit the about page and tell potential clients about your firm, 
 
 ### 8. Connect the website to your domain name
 
-Finally, you will connect the domain name.
+Finally, you will connect the website to your custom domain name. To do so, you must first register a domain name and change the dns settings with your domain name registrar to point to Github Pages. To do so, follow the instructions provided by your domain name registrar. For example, the settings for freefirmsite.com look like this: 
+
+![Domain](assets/images/rm11.png "Domain")
+
+Once you have updated your DNS settings, go to your github repository and click on **settings**. Scroll down to the Github pages section, add your custom domain name in the corresponding input field, and hit save.
+
+![Custom Domain](assets/images/rm12.png "Custom Domain")
 
 ### 9. Enable https
 
-Finally, you will connect the domain name.
+Once you save your custom domain name, Github will issue a security certificate. After a couple of minutes, you will be able to enable https. This ensures that all traffic to your website is encrypted. To enable https, go to your github repository and click on **settings**. Scroll down to the Github pages section, and select the **enforce HTTPS** option. 
 
-### 10. Celebrate
+It typically takes a while for the https certificate to become valid. To speed up the process, delete your custom domain name after you have enabled https, and subsequently add it again.
 
-That's it!
+### 10. Celebate
+
+That's it! Your website should be up and running. 
 
 ## License
 
