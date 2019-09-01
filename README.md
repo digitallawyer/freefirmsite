@@ -35,19 +35,19 @@ The whole setup process can be performed in less than an hour. Because hosting o
 
 ### Create a github account
 
-First, you will need to create a Github account. Github is owned by Microsoft and is used by developers to store and track changes to software code. Think about it as track changes but for software code. If you already have a Github account, you can skip this step. If you do not yet have a Github account, go to [github.com](https://www.github.com) to get started.
+First, you will need to **create a Github account**. Github is owned by Microsoft and is used by developers to store and track changes to software code. Think about it as track changes but for software code. If you already have a Github account, you can skip this step. If you do not yet have a Github account, go to [github.com](https://www.github.com) to get started.
 
 ![Create a Github Account](/assets/images/_readme/rm1.png "Create a Github Account")
 
 ### Make a copy of this website
 
-Once you have created and are logged in to your github account, you can make a copy of the demo website. To do so, go to [https://github.com/digitallawyer/freefirmsite](https://github.com/digitallawyer/freefirmsite) and click the "Fork" button located at the top right of the page. By "Forking" a repository, you are making a copy of the original website, in your Github account. 
+Once you have created and are logged in to your github account, you can make a copy of the demo website. To do so, go to [https://github.com/digitallawyer/freefirmsite](https://github.com/digitallawyer/freefirmsite) and click the "**Fork**" button located at the top right of the page. By "Forking" a repository, you are making a copy of the original website, in your Github account. 
 
 ![Fork the repository](/assets/images/_readme/rm2.png "Fork the repository")
 
 ### See it in action
 
-Congrats! You now have your own, personal copy of the Free Firm Site repository. Github allows you to host your website, for free, on Github Pages. To do so, click the **Settings** button on your repository page.
+Congrats! You now have your own, personal copy of the Free Firm Site repository. Github allows you to host your website, for free, on Github Pages. To do so, click the "**Settings**"" button on your repository page.
 
 ![Go to settings](/assets/images/_readme/rm3.png "Go to settings")
 
