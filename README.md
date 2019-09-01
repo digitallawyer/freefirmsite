@@ -51,6 +51,14 @@ Congrats! You now have your own, personal copy of the Free Firm Site repository.
 
 ![Go to settings](/assets/images/_readme/rm3.png "Go to settings")
 
+Scroll down until you see the **Github Pages** section. Click on the "Source" button and select "master branch". This tells Github that you would like to use Github Pages, and that Github Pages should show your visitors the code in the main branch of your repository.
+
+![Enable Github Pages](/assets/images/_readme/rm4.png "Enable Github Pages")
+
+As soon as you enable Github pages, your website will start building, and Github will make it available online. The settings page will show the url at which the site is available, and you should be able to visit your website moments later. 
+
+![Your Github Pages URL](/assets/images/_readme/rm5.png "Your Github Pages URL")
+
 ### Customize the variables
 
 Congrats! You now have your own, personal copy of the Free Firm Site repository. 
