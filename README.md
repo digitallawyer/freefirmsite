@@ -1,11 +1,10 @@
-
 # Free Firm Site
+
+**Demo: [freefirmsite.com](https://www.freefirmsite.com)**
 
 ## Overview
 
 A free law firm website template built by [@digitallawyer](https://www.twitter.com/digitallawyer) using freely available software by Microsoft. 
-
-**[View the demo](https://www.freefirmsite.com)**
 
 * A complete, customizable law firm website.
 * Mobile responsive and blazing fast.
