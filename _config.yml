@@ -1,22 +1,15 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole website, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+# Welcome to your law firm website. Change the values in this file to configure your site. 
 
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
+# The name of your law firm
+title: Free Firm Site LLP
 
-title: Law Firm LLP
+# The email address of your law firm. This will be displayed on the website, and messages sent using the contact form will be sent to this address.
 email: "info@firm.com"
+
+# The phone number of your law firm. This will be displayed on the website.
 phone: "+1 650 391 0000"
+
+# The description of your website. This will be displayed in the footer of the website
 description: >- # this means to ignore newlines until "baseurl:"
   Law Firm is the leading full-service firm in the San Francisco Bay Area. No matter your issue, we have your covered.
 
@@ -25,8 +18,14 @@ description: >- # this means to ignore newlines until "baseurl:"
 #twitter_username: jekyllrb
 #github_username:  jekyll
 
+# The tagline of your website. This will be displayed on the home page of your website
 tagline: Experienced, Flexible, Effective
+
+# The secondary tagline of your website. This will be displayed on the home page of your website, under the primary tagline
 secondary_tagline: We are the leading full-service firm in the San Francisco Bay Area.
+
+# The url of the main image of your website. This image is displayed front and center on the home page. 
+background_image: https://images.unsplash.com/photo-1422226256160-9b266e308ea6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2853&q=80
 
 repository: "nicolas-van/bootstrap-4-github-pages"
 
@@ -36,7 +35,7 @@ plugins:
   - jekyll-sitemap
 
 collections:
-  - posts    
+  - posts
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

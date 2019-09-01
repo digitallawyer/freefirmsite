@@ -1,29 +1,53 @@
-- name: Pieter Gunst
-  bio: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas luctus non elit ac tempor. Aliquam vitae odio a sapien tempus vehicula in at sapien. Sed rutrum tincidunt massa, quis pretium sem interdum quis. Suspendisse nec arcu dolor. Proin convallis tempus ligula, congue placerat neque auctor at. Vivamus aliquam massa in luctus cursus. In et mauris nec nunc varius dignissim ac vel diam.
-  picture: https://media.licdn.com/dms/image/C5603AQHR-FU_zeUuDg/profile-displayphoto-shrink_200_200/0?e=1573084800&v=beta&t=uFINIKul14ObnWx8aMG8J_BcCr0WfiGtkuzbjW-hjKA
-  email: pieter@legal.io
-  phone: "+1 650 391 3832"
+- name: John Roberts
+  bio: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas luctus non elit ac tempor. Aliquam vitae odio a sapien tempus vehicula in at sapien.
+  picture: john.jpg
+  email: john@lawfirm.com
+  phone: "+1 650 000 001"
 
-- name: Atticus Finch
-  bio: Lorem ipsum dolor sit amet. Quisque finibus rutrum nisl, ac viverra nunc mattis non. Phasellus in purus nec mi tempor vehicula eu sed magna. Sed cursus dictum tortor, a interdum leo fermentum at. Proin placerat eget libero eu tempus. Curabitur tempor et magna quis suscipit. Vestibulum vitae sapien nec orci fermentum congue. Aliquam lorem tortor, semper ac posuere eu, feugiat eget felis.
-  picture: https://media.licdn.com/dms/image/C5603AQHR-FU_zeUuDg/profile-displayphoto-shrink_200_200/0?e=1573084800&v=beta&t=uFINIKul14ObnWx8aMG8J_BcCr0WfiGtkuzbjW-hjKA
-  email: pieter@legal.io
-  phone: "+1 650 391 3832"
+- name: Clarence Thomas
+  bio: Lorem ipsum dolor sit amet. Quisque finibus rutrum nisl, ac viverra nunc mattis non. Phasellus in purus nec mi tempor vehicula eu sed magna.
+  picture: clarence.jpg
+  email: clarence@lawfirm.com
+  phone: "+1 650 000 002"
 
-- name: Ruth Bader
-  bio: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas luctus non elit ac tempor. Aliquam vitae odio a sapien tempus vehicula in at sapien. Sed rutrum tincidunt massa, quis pretium sem interdum quis. Suspendisse nec arcu dolor. Proin convallis tempus ligula, congue placerat neque auctor at. Vivamus aliquam massa in luctus cursus. Nullam bibendum libero imperdiet varius consequat. Vivamus urna turpis, vulputate eu vestibulum vitae, bibendum non est.
-  picture: https://media.licdn.com/dms/image/C5603AQHR-FU_zeUuDg/profile-displayphoto-shrink_200_200/0?e=1573084800&v=beta&t=uFINIKul14ObnWx8aMG8J_BcCr0WfiGtkuzbjW-hjKA
-  email: pieter@legal.io
-  phone: "+1 650 391 3832"
+- name: Ruth Bader Ginsburg
+  bio: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas luctus non elit ac tempor. Aliquam vitae odio a sapien tempus vehicula in at sapien.
+  picture: ruth.jpg
+  email: ruth@lawfirm.com
+  phone: "+1 650 000 003"
 
-- name: Ruth Bader Jr
-  bio: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas luctus non elit ac tempor. Aliquam vitae odio a sapien tempus vehicula in at sapien. Sed rutrum tincidunt massa, quis pretium sem interdum quis. Suspendisse nec arcu dolor. Proin convallis tempus ligula, congue placerat neque auctor at. Vivamus aliquam massa in luctus cursus. Nullam bibendum libero imperdiet varius consequat. Vivamus urna turpis, vulputate eu vestibulum vitae, bibendum non est.
-  picture: https://media.licdn.com/dms/image/C5603AQHR-FU_zeUuDg/profile-displayphoto-shrink_200_200/0?e=1573084800&v=beta&t=uFINIKul14ObnWx8aMG8J_BcCr0WfiGtkuzbjW-hjKA
-  email: pieter@legal.io
-  phone: "+1 650 391 3832"
+- name: Stephen Breyer
+  bio: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas luctus non elit ac tempor. Aliquam vitae odio a sapien tempus vehicula in at sapien.
+  picture: stephen.jpg
+  email: stephen@lawfirm.com
+  phone: "+1 650 000 004"
 
-- name: Ruth Bader Sr
-  bio: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas luctus non elit ac tempor. Aliquam vitae odio a sapien tempus vehicula in at sapien. Sed rutrum tincidunt massa, quis pretium sem interdum quis. Suspendisse nec arcu dolor. Proin convallis tempus ligula, congue placerat neque auctor at. Vivamus aliquam massa in luctus cursus. Nullam bibendum libero imperdiet varius consequat. Vivamus urna turpis, vulputate eu vestibulum vitae, bibendum non est.
-  picture: https://media.licdn.com/dms/image/C5603AQHR-FU_zeUuDg/profile-displayphoto-shrink_200_200/0?e=1573084800&v=beta&t=uFINIKul14ObnWx8aMG8J_BcCr0WfiGtkuzbjW-hjKA
-  email: pieter@legal.io
-  phone: "+1 650 391 3832"
+- name: Samuel Alito
+  bio: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas luctus non elit ac tempor. Aliquam vitae odio a sapien tempus vehicula in at sapien.
+  picture: samuel.jpg
+  email: samuel@lawfirm.com
+  phone: "+1 650 000 005"
+
+- name: Sonia Sotomayor
+  bio: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas luctus non elit ac tempor. Aliquam vitae odio a sapien tempus vehicula in at sapien.
+  picture: sonia.jpg
+  email: sonia@lawfirm.com
+  phone: "+1 650 000 006"
+
+- name: Elena Kagan
+  bio: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas luctus non elit ac tempor. Aliquam vitae odio a sapien tempus vehicula in at sapien.
+  picture: elena.jpg
+  email: elena@lawfirm.com
+  phone: "+1 650 000 007"
+
+- name: Neil Gorsuch
+  bio: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas luctus non elit ac tempor. Aliquam vitae odio a sapien tempus vehicula in at sapien.
+  picture: neil.jpg
+  email: neil@lawfirm.com
+  phone: "+1 650 000 008"
+
+- name: Brett Kavanaught
+  bio: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas luctus non elit ac tempor. Aliquam vitae odio a sapien tempus vehicula in at sapien.
+  picture: brett.jpg
+  email: brett@lawfirm.com
+  phone: "+1 650 000 009"

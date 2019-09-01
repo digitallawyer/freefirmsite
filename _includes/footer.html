@@ -13,7 +13,6 @@
         <!-- Content -->
         <h5 class="text-uppercase">{{ site.title | escape }}</h5>
         <p class="">{{- site.description | escape -}}</p>
-        <a href="mailto:{{ site.email }}" class="text-info">{{ site.email }}</a>
 
       </div>
       <!-- Grid column -->
@@ -34,9 +33,6 @@
             <a href="/services" class="text-info">Services</a>
           </li>
           <li>
-            <a href="/blog" class="text-info">Blog</a>
-          </li>
-          <li>
             <a href="/about" class="text-info">About</a>
           </li>
         </ul>
@@ -52,16 +48,13 @@
 
         <ul class="list-unstyled">
           <li>
-            <a href="https://legaloperators.slack.com" class="text-info">Slack channel</a>
+            <a href="/contact" class="text-info">Send us a message</a>
           </li>
           <li>
-            <a href="#!" class="text-info">Vendor directory</a>
+            <a href="mailto:{{site.email}}" class="text-info">Email {{site.email}}</a>
           </li>
           <li>
-            <a href="#!" class="text-info">Community guidelines</a>
-          </li>
-          <li>
-            <a href="#!" class="text-info">A guide to using Slack</a>
+            <a href="tel:{{site.phone}}" class="text-info">Call {{site.phone}}</a>
           </li>
         </ul>
 
@@ -75,8 +68,8 @@
   <!-- Footer Links -->
 
   <!-- Copyright -->
-  <div class="footer-copyright text-center py-3 text-white">© {{ 'now' | date: "%Y" }}
- Copyright: Legal Operators
+  <div class="footer-copyright text-center py-3">© {{ 'now' | date: "%Y" }}
+ Copyright: {{site.title}}
   </div>
   <!-- Copyright -->
 
