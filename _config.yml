@@ -1,35 +1,33 @@
 # Welcome to your law firm website. Change the values in this file to configure your site. 
 
 # The name of your law firm
-title: Free Firm Site LLP
+title: ETTAKA LYO
 
 # The email address of your law firm. Messages sent using the contact form will arrive at this address.
-email: "pieter@legal.io"
+email: "majorinenalwoga5@gmail.com"
 
 # The phone number of your law firm. This will be displayed on the website.
-phone: "+1 650 391 0000"
+phone: "+256 760947702"
 
 # The description of your website. This will be displayed in the footer of the website
 description: >- # this means to ignore newlines until "baseurl:"
-  Law Firm is the leading full-service firm in the San Francisco Bay Area. No matter your issue, we have your covered.
+  Ettaka Lyo connects lawyers to land owners inorder to provide legal aid.
 
 # The tagline of your website. This will be displayed on the home page of your website
-tagline: Free, Flexible, Effective
+tagline: Bringing a Lawyer to your doorstep.
 
 # The address of your firm. This will be displayed in the footer of your website
-address_1: "1535 Mission St."
-address_2: "San Francisco, CA, 94103"
+address_1: "Mukono"
 
 # It would not be a legal website without a disclaimer! This will be displayed in the footer of your website
 disclaimer: "Attorney advertisement. This information is not intended to create, and receipt of it does not constitute an attorney-client relationship. Internet subscribers and online readers should not act upon this information without seeking professional counsel. Do not send us information that is confidential until you speak with one of our attorneys and obtain authorization to send that information to us."
 
 # The secondary tagline of your website. This will be displayed on the home page of your website, under the primary tagline
-secondary_tagline: A free legal website template, yours to use and customize.
+secondary_tagline: Every Uganadan is Entitled to own land.
 
 # The url of the main image of your website. This image is displayed front and center on the home page. 
-background_image: https://images.unsplash.com/photo-1422226256160-9b266e308ea6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2853&q=80
-
-repository: "nicolas-van/bootstrap-4-github-pages"
+background_image: https://www.pinterest.com/pin/522699100517648555/
+repository: "mhajorinenalwoga"
 
 # Build settings
 plugins:
